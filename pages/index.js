@@ -18,10 +18,10 @@ const Home = () => {
 			<div className="container">
 				<div className="header">
 					<div className="header-title">
-						<h1>Fire Emblem Story Generator</h1>
+						<h1>Placeholder1</h1>
 					</div>
 					<div className="header-subtitle">
-						<h2>Insert FE characters and get a custom story</h2>
+						<h2>Placeholder2</h2>
 					</div>
 				</div>
 				<div className="prompt-container">
